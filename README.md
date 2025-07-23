@@ -3,6 +3,7 @@
 ## Descripción
 
 PLANTILLA reutilizable como sistema de autenticación y autorización de usuarios. Incluye funciones como creación de roles, registro de usuarios, inicio de sesión, autorización basada en roles y su respectiva configuración.
+
  ⚠️ Este repositorio solo contiene el backend. Para la parte frontend visitá: IdentityAuthTemplatefe
 
 ## Análisis de Requerimientos
