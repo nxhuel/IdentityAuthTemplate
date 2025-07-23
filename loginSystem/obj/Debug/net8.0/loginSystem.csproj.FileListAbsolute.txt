@@ -278,3 +278,4 @@ D:\cursos-programacion\c#\loginSystem\loginSystem\obj\Debug\net8.0\loginSystem.g
 D:\cursos-programacion\c#\loginSystem\loginSystem\obj\Debug\net8.0\ref\loginSystem.dll
 D:\cursos-programacion\c#\loginSystem\loginSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 D:\cursos-programacion\c#\loginSystem\loginSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\cursos-programacion\c#\loginSystem\loginSystem\obj\Debug\net8.0\loginSystem.sourcelink.json
