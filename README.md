@@ -79,7 +79,8 @@ PLANTILLA reutilizable como sistema de autenticación y autorización de usuario
 > Todos los endpoints devuelven JSON. Para probarlos podés usar Postman o Swagger
 
 ### Casos de uso
-<img width="634" height="378" alt="imagen" src="https://github.com/user-attachments/assets/7cf957dc-2376-4476-b595-c16e8e8ded1c" />
+<img width="1095" height="663" alt="imagen" src="https://github.com/user-attachments/assets/d3ae0d55-b738-4db6-a60b-66438a5a5402" />
+
 
 ## Configuración y Ejecución
 
@@ -101,7 +102,5 @@ PLANTILLA reutilizable como sistema de autenticación y autorización de usuario
 ## Contribuciones
 
 Aunque es un proyecto simple, estoy documentando todo como parte de mi aprendizaje y crecimiento.
-
 Si te interesa aportar ideas, código o feedback, ¡sos más que bienvenido/a!
-
 Gracias por leer 😄
