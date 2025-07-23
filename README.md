@@ -1,5 +1,21 @@
 # Documentación Autenticación y Autorización de Identidad
 
+## Índice
+
+- [Descripción](#descripción)
+- [Análisis de Requerimientos](#análisis-de-requerimientos)
+    - [Requerimientos Funcionales](#requerimientos-funcionales)
+    - [Requerimientos No Funcionales](#requerimientos-no-funcionales)
+    - [Requerimientos Técnicos](#requerimientos-técnicos)
+- [Diseño del Sistema](#diseño-del-sistema) 
+    - [Arquitectura en Capas con Seguridad y Autenticación JWT](#arquitectura-en-capas-con-seguridad-y-autenticación-jwt)
+    - [Diagrama Entidad Relación](#diagrama-entidad-relación)
+    - [Endpoints Disponibles](#endpoints-disponibles)
+- [Casos de Uso](#casos-de-uso)
+- [Configuración y Ejecución](#configuración-y-ejecución)
+- [Pendientes / Mejoras Futuras](#pendientes--mejoras-futuras)
+- [Contribuciones](#contribuciones)
+
 ## Descripción
 
 PLANTILLA reutilizable como sistema de autenticación y autorización de usuarios. Incluye funciones como creación de roles, registro de usuarios, inicio de sesión, autorización basada en roles y su respectiva configuración.
